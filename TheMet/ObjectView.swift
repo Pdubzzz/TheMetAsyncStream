@@ -57,6 +57,7 @@ struct ObjectView: View {
       }
       
       // MARK: W11 HW Assignment 2
+      
       if object.isPublicDomain {
         
         if let image = object.image {
